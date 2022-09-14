@@ -405,8 +405,8 @@ textarea:focus {
     z-index: 100;
     height: 145px; }
     @media only screen and (max-width: 767px) {
-      .header-area .delicious-main-menu {
-        height: 80px; } }
+      .header-area {
+        height: 120px; } }
     .header-area .delicious-main-menu .classy-nav-container {
       background-color: transparent; }
     .header-area .delicious-main-menu .classy-navbar {
