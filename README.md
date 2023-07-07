@@ -1,8 +1,7 @@
 # recipewebsite
  Private recipe website
 
-This webiste was create by Thomas Brears 2022, for the Thomas Brears's Recipes
-This website was created useing HTML and is in a basic layout format 
+This website was created by Thomas Brears in 2022 and updated in 2023 for my Recipes.
+This website was created using HTML and CSS
 
-Developed by Thomas Brears, 0211401576, recipesite@brears.xyzCancel changes
-Copyright THOMAS BREARS 2021. 
+Developed by Thomas Brears, recipe@brears.xyz
